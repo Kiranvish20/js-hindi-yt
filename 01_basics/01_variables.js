@@ -1,3 +1,3 @@
-const accoutId = 227456
+const accountId = 227456
 
 console.log(accountId);
