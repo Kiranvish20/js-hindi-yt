@@ -6,4 +6,4 @@ let accountState;
 
 // console.log(accountId);
 
-console.table([accountId, accountEmail, accountPassword])
+console.table([accountId, accountEmail, accountPassword, accountName,accountState])
